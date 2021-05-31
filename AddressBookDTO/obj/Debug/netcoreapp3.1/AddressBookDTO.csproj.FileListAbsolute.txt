@@ -1,0 +1,9 @@
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/bin/Debug/netcoreapp3.1/AddressBookDTO.deps.json
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/bin/Debug/netcoreapp3.1/AddressBookDTO.dll
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/bin/Debug/netcoreapp3.1/AddressBookDTO.pdb
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/obj/Debug/netcoreapp3.1/AddressBookDTO.csprojAssemblyReference.cache
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/obj/Debug/netcoreapp3.1/AddressBookDTO.AssemblyInfoInputs.cache
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/obj/Debug/netcoreapp3.1/AddressBookDTO.AssemblyInfo.cs
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/obj/Debug/netcoreapp3.1/AddressBookDTO.csproj.CoreCompileInputs.cache
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/obj/Debug/netcoreapp3.1/AddressBookDTO.dll
+/Users/erkanaslanel/Documents/Project/AddressBookApp/AddressBookDTO/obj/Debug/netcoreapp3.1/AddressBookDTO.pdb
